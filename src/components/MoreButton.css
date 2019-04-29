@@ -1,0 +1,12 @@
+.load_button {
+  background-color: rgb(147, 194, 233); /* Green */
+	border: none;
+	border-radius: 5px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+	font-size: 16px;
+	margin:50px auto;
+}
